@@ -126,16 +126,6 @@ Ushbu loyihadagi vazifangiz, Google Search uchun o'zingizning front-end ingizni 
 [🔝](#toc)  
 
 
-
-## Getting Started (Boshlash Uchun)
-
-* :canada: Download the distribution code from https://github.com/zrakhimov/google-clone
-* :uzbekistan: https://github.com/zrakhimov/google-clone dan kodni boshlang'ich kodni yuklab oling.  
-
-[🔝](#toc)  
-
-
-
 ## Specification (Talablar)
 
 ### :canada: 
